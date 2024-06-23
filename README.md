@@ -35,7 +35,7 @@ I checked CTR%, spend, and effectiveness of discount vs. non-discount ads with a
 •	Q4 sees peak performance, while Q2 needs strategic boosts.
 •	Discount ads drive higher conversions.
 
-**Conclusion:**
+### **Conclusion:**
 The dashboard provides actionable insights into market campaign performance, allowing for data-driven decisions to optimize marketing strategies. By focusing on high-performing cities, channels, and ad types, and adjusting strategies based on seasonal trends, businesses can maximize their marketing ROI and engagement rates.
 
 
